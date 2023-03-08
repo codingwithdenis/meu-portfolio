@@ -10,7 +10,7 @@ Projeto desenvolvido na Formação de HTML e CSS da Alura
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://URLDAIMAGEM#vitrinedev)
+![](https://raw.githubusercontent.com/codingwithdenis/meu-portfolio/main/capa.png#vitrinedev)
 
 ## Detalhes do projeto
 
